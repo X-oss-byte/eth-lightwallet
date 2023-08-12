@@ -70,7 +70,7 @@
     "rlp": "2.2.3",
     "scrypt-async": "2.0.1",
     "tweetnacl": "1.0.1",
-    "tweetnacl-util": "0.15.0",
+    "tweetnacl-util": "0.15.1",
     "web3": "0.20.7"
   },
   "devDependencies": {
